@@ -23,3 +23,6 @@ Step by step protocol:
 10.analyzes with Excel and R-studio
 
 
+This work is licensed under a Creative Commons Zero v1.0 Universal. 
+https://github.com/LabWolfrum/Fritze_et_al.2023/blob/main/LICENSE
+
