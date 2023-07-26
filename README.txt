@@ -12,7 +12,6 @@ Step by step protocol:
 3. taxonomy_definition
 	Code from folder
 4. Jalview was used as describe in Nunez-Castilla & Siltberg-Liberles 2020 and alignment was saved as Jalview_edited_length_wo_gap_delte_double.fasta
-	See Iupred2A_to_gap folder
 5. sort for vertebrate and mammals only
 	Code from vertebrate_mammalia_sorted folder
 6.analyzes with Excel and R-studio
