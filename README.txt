@@ -11,16 +11,11 @@ Step by step protocol:
 	Code from folder
 3. taxonomy_definition
 	Code from folder
-4. Iupred2A website was used https://iupred2a.elte.hu/ as input fasta_merged.txt from 2. was used
-	Iupred2A results can be found in Iupred2A_output folder
-5. Jalview was used as describe in Nunez-Castilla & Siltberg-Liberles 2020 and alignment was saved as Jalview_edited_length_wo_gap_delte_double.fasta
+4. Jalview was used as describe in Nunez-Castilla & Siltberg-Liberles 2020 and alignment was saved as Jalview_edited_length_wo_gap_delte_double.fasta
 	See Iupred2A_to_gap folder
-6. Iupred2.result.bin.fa was used for further analysis from 4.
-7. Iupred2A gap included
-	Code from folder
-8. sort for vertebrate and mammals only
+5. sort for vertebrate and mammals only
 	Code from vertebrate_mammalia_sorted folder
-10.analyzes with Excel and R-studio
+6.analyzes with Excel and R-studio
 
 
 This work is licensed under a Creative Commons Zero v1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
